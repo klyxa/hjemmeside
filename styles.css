@@ -10,6 +10,7 @@ body {
 
 #nav {
   width: 200px;
+  height: 100vh; /* 100% of the viewport height */
   background-color: #ccc;
   padding: 15px;
 }
@@ -33,4 +34,3 @@ h1, p {
   margin: 0;
   padding: 10px 0;
 }
-
